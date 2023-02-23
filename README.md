@@ -1,4 +1,6 @@
-# Purely Functional
+# <h1 align="center"> Purely Functional </h1>
+
+> Welcome to the PurelyFunctional Github repo, the central hub for resources and materials related to our conference dedicated to functional programming!
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/990816829993811978/1078333713915580506/mlso_Ascii_art_of_a_book_with_a_lambda_on_the_cover_134c61b2-8d4b-4d9e-b9e4-7b5dba2103a3.png" width=300>
@@ -8,7 +10,6 @@
   <i>The Lambda Bible Shall Guide Us</i>
 </p>
 
-Welcome to the PurelyFunctional Github repo, the central hub for resources and materials related to our conference dedicated to functional programming!
 
 Here, you'll find code samples, workshop materials, and other resources to help you dive deeper into the world of functional programming. Whether you're a seasoned pro or a curious beginner, we have something for everyone.
 
